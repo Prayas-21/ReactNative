@@ -1,5 +1,6 @@
-![Screenshot_20240628-145057](https://github.com/Prayas-21/ReactNative/assets/138648241/ffe21282-12c8-4f94-9315-312472dbca43)
-![Screenshot_20240628-145054](https://github.com/Prayas-21/ReactNative/assets/138648241/341dfe51-de6f-4ed6-8ea3-4ef78d6b7610)
-![Screenshot_20240628-145049](https://github.com/Prayas-21/ReactNative/assets/138648241/7e39566f-cb59-4f16-9f2a-3b1075d6f155)
+![Screenshot_20240628-170420](https://github.com/Prayas-21/ReactNative/assets/138648241/29738c25-1842-469a-818c-1b823cc65d74)
+![Screenshot_20240628-170427](https://github.com/Prayas-21/ReactNative/assets/138648241/fdc06331-5362-480d-be17-293e5093ca4a)
+![Screenshot_20240628-170431](https://github.com/Prayas-21/ReactNative/assets/138648241/700e861c-86c9-4e62-9511-43f2fa862c56)
+
 
 
